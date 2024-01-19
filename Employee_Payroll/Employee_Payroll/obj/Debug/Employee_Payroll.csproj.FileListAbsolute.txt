@@ -1,0 +1,7 @@
+C:\Users\Prakhar\trainingday1\Trainingday1new\depp\Codes\UCDay5\Employee_Payroll\Employee_Payroll\bin\Debug\Employee_Payroll.exe.config
+C:\Users\Prakhar\trainingday1\Trainingday1new\depp\Codes\UCDay5\Employee_Payroll\Employee_Payroll\bin\Debug\Employee_Payroll.exe
+C:\Users\Prakhar\trainingday1\Trainingday1new\depp\Codes\UCDay5\Employee_Payroll\Employee_Payroll\bin\Debug\Employee_Payroll.pdb
+C:\Users\Prakhar\trainingday1\Trainingday1new\depp\Codes\UCDay5\Employee_Payroll\Employee_Payroll\obj\Debug\Employee_Payroll.csproj.AssemblyReference.cache
+C:\Users\Prakhar\trainingday1\Trainingday1new\depp\Codes\UCDay5\Employee_Payroll\Employee_Payroll\obj\Debug\Employee_Payroll.csproj.CoreCompileInputs.cache
+C:\Users\Prakhar\trainingday1\Trainingday1new\depp\Codes\UCDay5\Employee_Payroll\Employee_Payroll\obj\Debug\Employee_Payroll.exe
+C:\Users\Prakhar\trainingday1\Trainingday1new\depp\Codes\UCDay5\Employee_Payroll\Employee_Payroll\obj\Debug\Employee_Payroll.pdb
