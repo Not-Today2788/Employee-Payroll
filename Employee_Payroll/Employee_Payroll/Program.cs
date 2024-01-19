@@ -4,23 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace UC1
+namespace UC2
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Random random = new Random();
-            int val = random.Next(2);
-            if (val == 0)
-            {
-                Console.WriteLine("Absent");
-            }
-            else
-            {
-                Console.WriteLine("Present");
-            }
-            Console.ReadKey();
+            int val = 8 * 20;
+            Console.WriteLine(val);
+            Console.ReadLine();
         }
     }
 }
